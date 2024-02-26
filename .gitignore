@@ -1,0 +1,11 @@
+/bart_zeroshot_demo/resources/config.json
+/bart_zeroshot_demo/resources/merges.txt
+/bart_zeroshot_demo/resources/model.safetensors
+/bart_zeroshot_demo/resources/special_tokens_map.json
+/bart_zeroshot_demo/resources/tokenizer.json
+/bart_zeroshot_demo/resources/tokenizer_config.json
+/bart_zeroshot_demo/resources/vocab.json
+/dist/
+/build/
+/src/resources/
+/src/bart_zeroshot_demo.egg-info/
