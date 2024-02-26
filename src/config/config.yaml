@@ -1,0 +1,5 @@
+---
+model_name: facebook/bart-large-mnli
+model_path: ../resources
+data_path: data
+output_path: ../output
